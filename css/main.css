@@ -196,7 +196,11 @@ ol li {
 }
 
 header {
-    background: blue;
+    background: black;
+}
+
+header .logo img {
+    max-width: 100px;
 }
 
 .nav-wrapper {
